@@ -1,0 +1,937 @@
+numb,Crags,Climbs,ST
+0,BankHead Forest/ Thompson Creek Trail,2,AL
+1,Bankhead Forest/Ship Rock,10,AL
+2,bankhead forest/sipsey picnic area,1,AL
+3,Cherokee Bluffs,32,AL
+4,Chewacla State Park,18,AL
+5,Colbert Heights,5,AL
+6,Coosa Slabs,0,AL
+7,"Dumps, The",1,AL
+8,Fort Rucker Climbing Wall,0,AL
+9,Griffin Falls,24,AL
+10,Gulf State Park-Boulder Park,0,AL
+11,Home Crag Boulders  a.k.a. Sherriff Boulders,3,AL
+12,Horse Pens 40,349,AL
+13,Hospital Boulders,189,AL
+14,Hurricane Creek Park,10,AL
+15,Hurricane Creek Park (Tuscaloosa),35,AL
+16,Jamestown,49,AL
+17,LaGrange,3,AL
+18,Lake Smith,1,AL
+19,Little River Canyon,141,AL
+20,Monte Sano State Park,7,AL
+21,Moss Rock Preserve,87,AL
+22,Palisades Park,58,AL
+23,Rainbow Mountain,37,AL
+24,Sand Rock,202,AL
+25,Seven Falls,3,AL
+26,Smith Mountain,36,AL
+27,Steele,36,AL
+28,Temp HP40,98,AL
+29,Trussville Boulders,25,AL
+30,Tuscaloosa UA Campus,24,AL
+31,Yellow Bluff,77,AL
+0,Anchorage & South Central Alaska,1503,AK
+1,Fairbanks and Vicinity,171,AK
+2,Interior Alaska/Alaska Range,88,AK
+3,Kenai Peninsula,121,AK
+4,Misty Fiords National Monument,1,AK
+5,Northern Alaska/Brooks Range,25,AK
+6,Seward Peninsula,4,AK
+7,Southeastern Alaska/Coastal Range,136,AK
+8,Wrangell St. Elias NP,9,AK
+9,Yukon River/Rapids area,3,AK
+0,Central Arizona,3368,AZ
+1,Northern Arizona,3329,AZ
+2,Southern Arizona,3565,AZ
+0,North-Central Arkansas,1434,AR
+1,Northeast Arkansas Region,114,AR
+2,Northwest Arkansas (NWA) Region,394,AR
+3,River Valley and Ouachitas Region,85,AR
+0,"Arboretum, The",16,KS
+1,"Camp Horizon, Arkansas City",0,KS
+2,Cedar Bluff,3,KS
+3,Central Riverside Park,5,KS
+4,"Chossy Brice, The",3,KS
+5,Crappie Cove- Tuttle Creek Lake,3,KS
+6,Elk City Area,21,KS
+7,Elk City Lake North Shore Boulders,18,KS
+8,Fall River,1,KS
+9,I-70 Exit 224 East Bound Rest Area,5,KS
+10,Indian Rock Park,7,KS
+11,Kanopolis Lake,0,KS
+12,Killcreek,2,KS
+13,Lake Olathe,1,KS
+14,Lawrence - Buildering,1,KS
+15,Mushroom Rock State Park,3,KS
+16,Pit Fall,0,KS
+17,Potters Lake,1,KS
+18,Rock City,15,KS
+19,Rock Town Wilson Lake Kansas,2,KS
+20,Scott Lake State Park,1,KS
+21,Space Battleship Tiramisu,3,KS
+22,St. Philippine Duchesne Park,74,KS
+0,Central Coast,1839,CA
+1,High Desert,1226,CA
+2,High Sierra,391,CA
+3,Inland Empire,816,CA
+4,Joshua Tree National Park,6124,CA
+5,Lake Tahoe,3378,CA
+6,Los Angeles Basin,1873,CA
+7,Northeast California,900,CA
+8,Redwood Coast,754,CA
+9,San Bernardino Mountains,1694,CA
+10,San Diego County,1942,CA
+11,San Francisco Bay Area,1744,CA
+12,San Jacinto Mountains,1023,CA
+13,Sequoia & Kings Canyon NP,365,CA
+14,Sierra Eastside,5563,CA
+15,Sonora Pass Highway (108),330,CA
+16,Tahquitz & Suicide Rocks,600,CA
+17,Western Sierra,1105,CA
+18,Yosemite National Park,2207,CA
+0,10 Mile Canyon,113,CO
+1,Alpine Rock,1007,CO
+2,Blue Lakes,2,CO
+3,Boulder,4939,CO
+4,Breckenridge,8,CO
+5,Buena Vista,452,CO
+6,Canon City,1256,CO
+7,Carbondale Area,233,CO
+8,"Cataract Lake (Heeney, Colorado)",1,CO
+9,Central Park Bouldering Area,3,CO
+10,CO Ice & Mixed,1038,CO
+11,Coal Creek Canyon,15,CO
+12,Colorado Springs,722,CO
+13,Cortez/Mesa Verde Area,26,CO
+14,Crested Butte,55,CO
+15,Crestone,0,CO
+16,Cross Mountain Boulders,6,CO
+17,Denver South,575,CO
+18,Dolores Canyon,40,CO
+19,Dolores Roadside Boulders,10,CO
+20,Downtown Denver,9,CO
+21,DU Campus Bouldering/Buildering,20,CO
+22,Dumont vicinity,58,CO
+23,Durango,863,CO
+24,Eagle/Vail/Minturn/Red Cliff,363,CO
+25,Eldora,9,CO
+26,Elkhead Mountains,0,CO
+27,Empire,84,CO
+28,Equinox Gardens,4,CO
+29,Estes Park Valley,1435,CO
+30,Fairplay,9,CO
+31,Fort Collins,1722,CO
+32,Fremont Pass,11,CO
+33,Frisco Boulders,5,CO
+34,Georgetown,95,CO
+35,Glenwood Springs,427,CO
+36,Gold Butte,17,CO
+37,Golden,1884,CO
+38,Gore Canyon,3,CO
+39,Grand County / Fraser Valley,45,CO
+40,Grand Junction Area,3418,CO
+41,Green Mountain Reservoir,1,CO
+42,Gross Reservoir,34,CO
+43,Gunnison,669,CO
+44,Handies Peak,2,CO
+45,Hillside National Forest,6,CO
+46,Idaho Springs,58,CO
+47,Independence Pass,697,CO
+48,Irish Canyon,13,CO
+49,Keystone a.k.a. Montezuma,138,CO
+50,Larkspur Park God Hand,1,CO
+51,Leadville,82,CO
+52,Lyons,671,CO
+53,Montrose,21,CO
+54,Morrison/Evergreen/Littleton,757,CO
+55,Naturita and Paradox Valley,81,CO
+56,Northwest Denver Buildering,3,CO
+57,Observatory Park,5,CO
+58,Ouray vicinity (rock),215,CO
+59,Pagosa Springs,186,CO
+60,Palmer Park Bouldering,3,CO
+61,Parachute/ Battlement Mesa,2,CO
+62,Pawnee Grasslands,1,CO
+63,Pumphouse Area,0,CO
+64,Rifle,459,CO
+65,Rito Alto Lake,0,CO
+66,Rollins Pass,9,CO
+67,San Luis Valley,310,CO
+68,Sandoval Campus Buildering area,1,CO
+69,Silver Basin,2,CO
+70,Silver Plume,11,CO
+71,Silverton area,56,CO
+72,South Platte,2724,CO
+73,Spanish Peaks,10,CO
+74,St. Charles River Canyon,2,CO
+75,Steamboat Springs,170,CO
+76,Telluride/Norwood area,352,CO
+77,Urban Alpine Adjacent,0,CO
+78,Vogel Canyon,44,CO
+79,Weston Pass-(Weston Wall),7,CO
+80,"Wet Mountains, The",77,CO
+81,Wild Mountain,2,CO
+0,Central Valley,431,CT
+1,CT Bouldering,1216,CT
+2,CT Ice Climbing,3,CT
+3,Eastern Coastal Slope,87,CT
+4,Eastern Highlands,54,CT
+5,Western Coastal Slope,138,CT
+6,Western Highlands,146,CT
+0,Alapocas Run State Park,16,DE
+1,Ebright Azimuth,1,DE
+2,Rockford Park,21,DE
+3,Rockwood Park / Greenway Trail,1,DE
+0,Bertha - Cross Seminole Trail,2,FL
+1,Blowing Rock Preserve,3,FL
+2,Corey Causeway Bridge,2,FL
+3,Eckerd College Buildering,0,FL
+4,Egmont Key,0,FL
+5,Elizabeth Wolfe Park - Boulders,0,FL
+6,Hollywood Holds,1,FL
+7,Lexington Crossing,1,FL
+8,Memory Boulder,2,FL
+9,Myakka State Park Boulder,5,FL
+10,Pcola,3,FL
+11,Rattlesnake Island,1,FL
+12,University of Florida,4,FL
+13,Wellington Village Park Boulder,2,FL
+14,Wickham Park ID Sculpture,1,FL
+0,Ansley Boulder,10,GA
+1,big cheese,1,GA
+2,Blood Mountain,3,GA
+3,Boat Rock,145,GA
+4,Buford Dam Boulders,9,GA
+5,Buford Dam Boulders,1,GA
+6,Cherokee Bluff,1,GA
+7,Currahee Mountain,80,GA
+8,"Dug Mountain (Hood Rock) Dalton, GA",11,GA
+9,Eagle & Phenix Dam,1,GA
+10,G-wall,7,GA
+11,Graffiti Boulder,2,GA
+12,Hitchiti Boulders,20,GA
+13,Hogpen Gap,1,GA
+14,Indian Seats,13,GA
+15,Jones Bridge Park,3,GA
+16,Juliette Boulders,44,GA
+17,Lake Allatoona Boulders,1,GA
+18,Lake Lanier Boulders,1,GA
+19,Limestone Quarry,4,GA
+20,Lost Wall,52,GA
+21,Metro-Atlanta Area,132,GA
+22,Mount Yonah,160,GA
+23,Murder Creek,8,GA
+24,Oconee Boulders,0,GA
+25,Panola Mountain,38,GA
+26,Piedmont Park Roof,0,GA
+27,Pine Mountain,2,GA
+28,Pine Mountain Boulders,0,GA
+29,Rabun Bald,2,GA
+30,Red Top Mountain Boulder,6,GA
+31,Rocktown,213,GA
+32,Shaking Rock,24,GA
+33,Tallulah Gorge,27,GA
+34,Waleska,2,GA
+35,Woody Gap,1,GA
+36,Yorkville Boulders,1,GA
+37,Zahnd Natural Area,20,GA
+0,Hawaii (Big Island),19,HI
+1,Kauai,71,HI
+2,Lanai,1,HI
+3,Maui,43,HI
+4,Molokai,10,HI
+5,Oahu,146,HI
+0,Central Idaho,503,ID
+1,East Idaho,1328,ID
+2,North Idaho,302,ID
+3,South Idaho,1114,ID
+4,West Idaho,634,ID
+0,*Jackson Falls,515,IL
+1,Alto Pass,35,IL
+2,"Beach, The",13,IL
+3,Cedar Bluff,46,IL
+4,Chicago Area,51,IL
+5,Copperhead Hollow,0,IL
+6,Cove Hollow,20,IL
+7,Dixon Springs State Park,24,IL
+8,Draper's Bluff,17,IL
+9,Ferne Clyffe S.P.,31,IL
+10,Giant City State Park,115,IL
+11,"Graveyard, The",22,IL
+12,"Holy Boulders, The",183,IL
+13,Ice Climbing,17,IL
+14,Kankakee River,2,IL
+15,Lehigh Park,35,IL
+16,Mississippi Palisades,143,IL
+17,Montrose lakefront trail bridge,0,IL
+18,One Horse Gap,11,IL
+19,Peoria - Rocky Glen,2,IL
+20,Pere Marquette State Park,67,IL
+21,Pounds Lake,21,IL
+22,Rockford Area Climbing,0,IL
+23,"Roost, The",14,IL
+24,St. Francisville,5,IL
+25,Sterling Sinnissippi Park,1,IL
+26,Winston Tunnel,1,IL
+27,Z: Closed Areas,6,IL
+0,Butler University,0,IN
+1,Garfield Park Railroad bridge,0,IN
+2,Hemlock Cliffs,1,IN
+3,Indiana University,14,IN
+4,Muscatatuck County Park,61,IN
+5,Posey Crag,1,IN
+6,Purdue University Buildering,9,IN
+7,Unlikely Wall,19,IN
+0,Backbone State Park,24,IA
+1,Centennial Park,13,IA
+2,Chimney Rocks,1,IA
+3,Coralville Lake Bouldering,23,IA
+4,Decorah,1,IA
+5,Dubuque,3,IA
+6,Fort Dodge,0,IA
+7,Indian Bluffs,26,IA
+8,Joinerville (bouldering only),67,IA
+9,Ozark Wildlife Area,28,IA
+10,Palisades Kepler State Park,18,IA
+11,Pictured Rocks,71,IA
+12,Silo Ice Climbing,1,IA
+13,Waldo's Rock Park,7,IA
+14,Wildcat Den (respect closure),0,IA
+0,BSF (placeholder),0,KY
+1,Carter Caves,1,KY
+2,Chicken Head Rock,1,KY
+3,Knobs Forest Knobs,4,KY
+4,Otter Creek,2,KY
+5,Purple Bridge,1,KY
+6,Red River Gorge,2382,KY
+7,River Bouldering,4,KY
+8,Rockcastle River,5,KY
+9,Stonecrest,0,KY
+10,Western Kentucky,109,KY
+0,Kistachie Boulder Longleaf Vista,2,LA
+0,-Acadia National Park,288,ME
+1,-Camden Hills,239,ME
+2,-Clifton Crags,134,ME
+3,-Shagg Crag,50,ME
+4,a. Western Mountains,185,ME
+5,b. Southern Coast,49,ME
+6,c. Greater Portland,43,ME
+7,d. Midcoast,45,ME
+8,e. Penobscot Bay to Schoodic Point,12,ME
+9,f. Downeast,0,ME
+10,g. Capital Region,37,ME
+11,h. Greater Bangor,35,ME
+12,i. Moose & Kennebec River Valleys,9,ME
+13,j. The Maine Highlands (inc. BSP),35,ME
+14,k. Aroostook (The County),0,ME
+15,ZZTemp Holding,0,ME
+0,Annapolis Rock,40,MD
+1,Baltimore City Watershed,12,MD
+2,Big Gunpowder Falls,25,MD
+3,Black Rock,10,MD
+4,Blair Witch Area,1,MD
+5,Camp Lewis / Lewis Rocks,15,MD
+6,Carderock,135,MD
+7,Catoctin Mountain Park,128,MD
+8,Cunningham Falls State Park,50,MD
+9,Dan's Mountain Wildlife Management Area,2,MD
+10,Dr. Jack Gorge,0,MD
+11,Fallston Boulder Garden,31,MD
+12,Fork Run,1,MD
+13,Fox Hill Crag,4,MD
+14,Frederick Watershed,16,MD
+15,Great Falls - Maryland Side,77,MD
+16,Hancock Aqueducts,1,MD
+17,Harper's Ferry,314,MD
+18,"Johns Hopkins University, The",0,MD
+19,Kings Contrivance,0,MD
+20,Liberty Reservoir Oakland Road,5,MD
+21,Linganore-Bartonsville,1,MD
+22,Little Gunpowder Boulders,14,MD
+23,Locust Grove,22,MD
+24,Mason-Dixon Arch,3,MD
+25,Morgan Run NEA,68,MD
+26,"Narrows aka Lover's Leap, The",134,MD
+27,Northwest Branch,131,MD
+28,Patapsco Valley State Park,77,MD
+29,Port Deposit,8,MD
+30,Raven Rock,2,MD
+31,Rocks State Park,54,MD
+32,Rocky Gap State Park,4,MD
+33,Rocky Gorge Reservoir,13,MD
+34,Shepherdstown Limestone Triple Roof Crag,6,MD
+35,Shepherdstown Pillars,2,MD
+36,Sugarloaf Mountain,106,MD
+37,Swallow Falls,3,MD
+38,Turkey Island,0,MD
+39,Vaso Island,11,MD
+0,"Central, MA",143,MA
+1,"Eastern, MA",1354,MA
+2,Greater Boston,66,MA
+3,North Shore,2640,MA
+4,"South Shore, Cape, and Islands",101,MA
+5,Western MA,259,MA
+0,Lower Peninsula,140,MI
+1,Upper Peninsula,812,MI
+0,Banning State Park - Bouldering,28,MN
+1,BC's Wilderness Challenge (BWCAW),4,MN
+2,Blue Mounds State Park (Luverne),335,MN
+3,Canidae Cliff  (Hammond),16,MN
+4,Cascade River ICE (North Shore),2,MN
+5,Duluth Area (Rock and Ice),441,MN
+6,Ennis Lake (Ely),0,MN
+7,Forestview Middle School,5,MN
+8,Gooseberry Falls Area ICE (North Shore),2,MN
+9,Grand Marais Area Ice Climbs (North Shore),2,MN
+10,Gunflint Trail,10,MN
+11,"Hastings Pit, The",2,MN
+12,HE MNI CAN / Barn Bluff (Red Wing),157,MN
+13,Interstate SP (Taylors Falls),159,MN
+14,Jeff's World (MN/CA border),134,MN
+15,Kawishiwi River  (BWCAW),2,MN
+16,Lake County Road 6 Area (North Shore),24,MN
+17,Laurentian Divide Climbing Area,2,MN
+18,"Louisville Swamp Boulder (S/W Twin Cities Metro, near Shakopee)",25,MN
+19,Lutsen Resort Bouldering,2,MN
+20,Manitou River ICE (North Shore),8,MN
+21,Mankato Area Bouldering (Mankato),24,MN
+22,Mankato Area ICE (Mankato),6,MN
+23,Memorial Park (Red Wing),6,MN
+24,Nothing New Under the Sun -,0,MN
+25,Quarry Park (St. Cloud),14,MN
+26,"Road Side Boulder, The",2,MN
+27,Sandstone,116,MN
+28,Sawmill Creek Dome,68,MN
+29,Silver Bay Ice,2,MN
+30,"Silver Bay, Eleanor Road Side Crag",8,MN
+31,Silver Creek Tunnel Area (North Shore),3,MN
+32,Stillwater Ice (Stillwater),3,MN
+33,Stockton Train Bridge Bouldering,0,MN
+34,Swede's Forest Boulders,56,MN
+35,Temperance River SP (North Shore),32,MN
+36,Tettegouche SP (North Shore),102,MN
+37,Twin Cities Ice (MSP/STP),14,MN
+38,"WAZ Boulders (Rochester), The",0,MN
+39,Winona Downtown Boulders,0,MN
+40,Winona Ice Park,4,MN
+41,"Winona, Sugar Loaf",37,MN
+42,Wolf Ridge ELC Area (North Shore),15,MN
+0,Catahoula Boulderfield,12,MS
+1,Mississippi Gulf Coast Buildering,8,MS
+2,Tishomingo,57,MS
+0,CM: Andromeda,22,MO
+1,CM: Capen Park,39,MO
+2,CM: Cedar Creek,3,MO
+3,CM: Devils Elbow,21,MO
+4,"CM: Henley, The Forgotten Wall",0,MO
+5,CM: Hermann Roadside Park,13,MO
+6,CM: Paddy Creek Wilderness,26,MO
+7,CM: Panther Bluff,1,MO
+8,CM: Providence,77,MO
+9,CM: Reform Rock,7,MO
+10,CM: Rocheport,2,MO
+11,CM: Roubidoux spring,2,MO
+12,CM: Scheuler's Ferry,20,MO
+13,CM: Wilton,33,MO
+14,EM: Al Foster Boulder,3,MO
+15,EM: Amidon,58,MO
+16,EM: Bismarck Lake,0,MO
+17,EM: Chubb Trail Crag,11,MO
+18,EM: Dutzow - Utopia,30,MO
+19,EM: Elephant Rocks State Park,72,MO
+20,EM: Frisco Boulder,3,MO
+21,EM: Johnson Shut-Ins,12,MO
+22,EM: Kirkwood Boulders,11,MO
+23,EM: Mammoth Cave,1,MO
+24,EM: Millstream Gardens,7,MO
+25,EM: Pickle Springs Natural Area,0,MO
+26,EM: Robinson Bluff,135,MO
+27,EM: Rockwoods Reservation,0,MO
+28,EM: Silver Mines,33,MO
+29,EM: St. Francois State Park,81,MO
+30,EM: The Off-Sets,6,MO
+31,Fort Lost in the Woods,1,MO
+32,Highway 160,1,MO
+33,NM: The Petrichor Pit,5,MO
+34,SW: Drury-Mincy Conservation Area,1,MO
+35,SW: Fair Grove,0,MO
+36,SW: Peter's Branch,37,MO
+37,SW: Shoal Creek Area,7,MO
+38,WM: Cave Hollow,9,MO
+39,WM: Cliff Drive,36,MO
+40,WM: Eagle View Bluff,1,MO
+41,WM: Monegaw Springs,45,MO
+42,WM: Raven Rocks,24,MO
+43,WM: Reed's Bluff,17,MO
+44,WM: Shadow Rock Park DWS,2,MO
+45,WM: Swope & Blue River Limestone,70,MO
+46,WM: The Dump,18,MO
+47,WM: Trapper's Camp,57,MO
+48,WM: Warsaw,43,MO
+49,WM: Wornall Wall,0,MO
+50,XM: Closed Areas,13,MO
+51,ZM: Indoor Walls,5,MO
+0,Northwest Region,653,MT
+1,South Central Region,226,MT
+2,Southwest Region,1760,MT
+0,Goon Stretch,7,NE
+1,Schramm Road,1,NE
+0,Eastern Nevada,49,NV
+1,Southern Nevada,3760,NV
+2,Western Nevada,526,NV
+0,* NH Ice and Mixed,349,NH
+1,*Cannon Cliff,79,NH
+2,*Cathedral Ledge,207,NH
+3,*Pawtuckaway,874,NH
+4,*Rumney,1137,NH
+5,*Whitehorse Ledge,127,NH
+6,Dartmouth / Lake Sunapee,67,NH
+7,Great North Woods Region,57,NH
+8,Lakes Region,432,NH
+9,Southern NH and Seacoast,829,NH
+10,WM: Albany Area,52,NH
+11,WM: Bartlett / Jackson Area,124,NH
+12,WM: Crawford Notch,93,NH
+13,WM: Evans Notch,10,NH
+14,WM: Franconia Notch,153,NH
+15,WM: Kancamagus (Central),165,NH
+16,WM: Kancamagus (Eastern),286,NH
+17,WM: Kinsman Notch,79,NH
+18,WM: Lincoln Area,20,NH
+19,WM: North Conway,102,NH
+20,WM: Oliverian Notch,32,NH
+21,WM: Pinkham / Presidentials,85,NH
+22,WM: Waterville Valley,277,NH
+23,WM: Zealand Valley,52,NH
+24,ZZTemp Holding,0,NH
+0,a. NorthWest,401,NJ
+1,b. North Central,99,NJ
+2,c. NorthEast,108,NJ
+3,d. Mid-state,68,NJ
+4,e. South,2,NJ
+0,Albuquerque Area,789,NM
+1,El Rito,188,NM
+2,Enchanted Tower,132,NM
+3,Gallup Area,109,NM
+4,Jemez Mountains and Jemez Valley,749,NM
+5,Las Cruces Area Climbing,597,NM
+6,Los Alamos & White Rock,552,NM
+7,New Mexico Navajolands,23,NM
+8,"New Mexico, I-40 Corridor",97,NM
+9,"New Mexico, other Northern Areas",139,NM
+10,"New Mexico, other Southern Areas",273,NM
+11,Santa Fe Area,440,NM
+12,Socorro Area,362,NM
+13,Taos Area,559,NM
+14,Truth or Consequences Area,219,NM
+15,Upper Rio Puerco Valley,3,NM
+0,Adirondacks,2060,NY
+1,Armonk Cliffs,1,NY
+2,Bard College - Bouldering,1,NY
+3,"Bear Caves, The",20,NY
+4,Belfast Pillars,7,NY
+5,Bike Trail Boulder,3,NY
+6,Cat Rock Park,0,NY
+7,Catskills (Ice),82,NY
+8,Cedar Park Cemetery,1,NY
+9,Central NY Ice,6,NY
+10,Clarks Reservation State Park,53,NY
+11,Clarkson University,7,NY
+12,Dorson's Rock,12,NY
+13,eye bolder,3,NY
+14,Glenmeal,55,NY
+15,"Gunks, The",1098,NY
+16,Harriman State Park,7,NY
+17,Hyde Park Boulders,6,NY
+18,Ice Pond,32,NY
+19,Indian River Lakes,18,NY
+20,Ithaca,1,NY
+21,Little Falls,111,NY
+22,Long Island,53,NY
+23,Monsey Glen Regional Park,0,NY
+24,Moreau Area,18,NY
+25,Murrow Park Pawling,1,NY
+26,New York City,174,NY
+27,Nyack beach state park,4,NY
+28,Oliver Leavitt,4,NY
+29,"one Bolder to rule them all, The",2,NY
+30,Payne Lake,10,NY
+31,"Phoenicia, Sportsman's Wall",12,NY
+32,Plotterkill Preserve (ice),3,NY
+33,Powerlinez,651,NY
+34,Rock City State Forest,14,NY
+35,Rockefeller State Park,0,NY
+36,Salmon River Falls (Ice),7,NY
+37,Saratoga Springs Area,0,NY
+38,State Brook Mountain,0,NY
+39,Stateline,0,NY
+40,Table Rock,25,NY
+41,Tallman Mountain,20,NY
+42,Tea Town Boulders,7,NY
+43,Thacher State Park,60,NY
+44,Thunder Rocks,5,NY
+45,V.E. Macy Park,2,NY
+46,Ward Pound Ridge Reservation,7,NY
+47,Watkins Glen,1,NY
+48,West Point (Closed / Illegal),0,NY
+49,Westchester Wilderness Walk/Zofnass Family Preserve,19,NY
+50,Westmoreland Sanctuary,1,NY
+51,Wilcox Park,0,NY
+52,"Witches' Circle, The",9,NY
+53,Z-Loft,15,NY
+0,1. Southern Mountains Region,1264,NC
+1,2. Northern Mountains Region,660,NC
+2,3. Piedmont Region,992,NC
+3,4. Eastern Region,97,NC
+0,Bi-Way Boulders,2,ND
+1,Chimney Butte,5,ND
+2,Killdeer Boulders,3,ND
+3,Kintyre Boulders,5,ND
+4,Medora Interstate Rocks,1,ND
+5,Regan Rocks,2,ND
+6,Sentinel Butte,8,ND
+7,Sentinel Butte Bouldering,13,ND
+8,Square Butte,10,ND
+9,Square Butte Bouldering,2,ND
+0,Central Ohio,214,OH
+1,Eastern Ohio,7,OH
+2,Northeast Ohio,455,OH
+3,Northwest Ohio,12,OH
+4,Southeast Ohio,266,OH
+5,Southwest Ohio,387,OH
+0,Hominy,2,OK
+1,Lake Eucha,1,OK
+2,Lake Murray: Buzzard Roost,5,OK
+3,Medicine Park,9,OK
+4,"Quarry, The",1,OK
+5,Quartz Mountain,138,OK
+6,SE Oklahoma,104,OK
+7,Skiatook Park,1,OK
+8,Tulsa Area,346,OK
+9,Wichita Mountains Wildlife Refuge,603,OK
+0,Central Oregon,1546,OR
+1,Mt. Hood,351,OR
+2,Northeast Oregon,248,OR
+3,Northwest Coast,5,OR
+4,Oregon Volcanoes,30,OR
+5,Portland & The Gorge,554,OR
+6,Southwest Oregon,543,OR
+7,Willamette Valley,303,OR
+0,Central PA,262,PA
+1,Northeast Ridges and Valleys,220,PA
+2,"Northwest, The",116,PA
+3,South Central PA,959,PA
+4,Southeastern Lowlands,747,PA
+5,Southwestern Highlands,568,PA
+0,Arcadia Management Area,130,RI
+1,Ballard Park (closed),5,RI
+2,Beach Pond,133,RI
+3,Black Hut Boulder,10,RI
+4,"Buckeye Boulders, The",23,RI
+5,Carr's Pond Boulders in the Big River Management Area,5,RI
+6,Connors Farm,102,RI
+7,"De Coppet Estate, The",16,RI
+8,Diamond Hill,7,RI
+9,Durfee Hill,1,RI
+10,Fort Wetherill State Park (closed),0,RI
+11,Lincoln Woods,670,RI
+12,Narragansett,45,RI
+13,Rockville,44,RI
+14,Rocky Point,110,RI
+15,Rome Point,5,RI
+16,Snake Den,17,RI
+17,Surfers Egg,1,RI
+18,Wickaboxet Management Area,4,RI
+19,Wolf Hill Quarry,4,RI
+0,Asbury Hills,6,SC
+1,Big Rock Mountain,87,SC
+2,Jocassee Gorges Bouldering,0,SC
+3,Poinsett Bridge Bouldering,0,SC
+4,Rocky Creek Bouldering,21,SC
+5,Savannah River Mini Quarry,2,SC
+6,Table Rock State Park,21,SC
+0,Crow Peak,0,SD
+1,Custer State Park,606,SD
+2,East Side SD,222,SD
+3,"Marina, The",6,SD
+4,"Needles Of Rushmore, The",1133,SD
+5,Rapid City Area,250,SD
+6,Southern Black Hills,48,SD
+7,Spearfish Canyon,855,SD
+0,Backbone Rock,15,TN
+1,Bays Mountain,7,TN
+2,Bells Bend,1,TN
+3,Big Soddy Gorge,20,TN
+4,Big South Fork,92,TN
+5,Black Mountain,33,TN
+6,Blue Hole Falls,24,TN
+7,"Boulders on Old Wauhatchie Pike, The",56,TN
+8,Buffalo Rock on French Broad River,2,TN
+9,Buzzard Point,24,TN
+10,Castle Rock,46,TN
+11,Center Hill Lake,8,TN
+12,Cherokee Bluff (CLOSED TO CLIMBING),2,TN
+13,Clarksville Greenway,2,TN
+14,Collegedale Park,1,TN
+15,Cumberland Boulders,4,TN
+16,Dayton Pocket/Laurel Falls Bouldering,65,TN
+17,Deep Creek,69,TN
+18,Denny Cove,96,TN
+19,Devil's Race Track,22,TN
+20,Foster Falls,143,TN
+21,GoForth Creek Boulders,1,TN
+22,Greenway Boulders,9,TN
+23,Ijams Crag,34,TN
+24,King's Bluff,176,TN
+25,Lake Nickajack Deep Water Soloing,8,TN
+26,Laurel Falls,9,TN
+27,Leda,45,TN
+28,Leda  Shade Wall,12,TN
+29,Look Rock,2,TN
+30,Lower Leda,20,TN
+31,Mizell Bluffs on Tellico Lake,2,TN
+32,Nolichucky riverside,0,TN
+33,Norris Lake,2,TN
+34,"North Chick Gorge, Soddy TN",2,TN
+35,Obed & Clear Creek,521,TN
+36,"Outback boulder wall, The",0,TN
+37,Panther Creek State Park,7,TN
+38,Percy Priest DWS,4,TN
+39,Phil Rock,2,TN
+40,Prentice Cooper,10,TN
+41,River Wall,5,TN
+42,Rock City,1,TN
+43,Short Mountain,5,TN
+44,Starr Mountain,10,TN
+45,Stillhouse hollow falls -ice climbing,1,TN
+46,Stone Door @ Savage Gulf State Park.,9,TN
+47,Stone Fort (aka Little Rock City),317,TN
+48,Suck Creek Canyon,40,TN
+49,Sucka Cave,33,TN
+50,Sunset Park,133,TN
+51,Taylor Creek Gourge,0,TN
+52,"Tennessee Wall, The",223,TN
+53,Toxic Wall,12,TN
+54,Tweetsie Trail - Railroad Cuts,3,TN
+55,Vandy Buildering,8,TN
+0,A Dumpster,2,TX
+1,Adair Springs,3,TX
+2,Austin Area,1068,TX
+3,Big Bend National Park,71,TX
+4,Brazos River Boulders,1,TX
+5,Brownwood,55,TX
+6,Camp Eagle,46,TX
+7,Caprock Canyons State Park,8,TX
+8,Continental Ranch,13,TX
+9,Cub Cave,10,TX
+10,Dallas Park City Buildering,12,TX
+11,Eisenhower State Park,18,TX
+12,Enchanted Rock State Natural Area,350,TX
+13,Fiesta Wall,22,TX
+14,Franklin Mountain Range,86,TX
+15,Garner State Park,1,TX
+16,Gerault Bridge,1,TX
+17,Hamm Creek Park,2,TX
+18,Hostility Boulders aka ham creek park,10,TX
+19,Houston,4,TX
+20,Hueco Tanks,623,TX
+21,Lake Belton,108,TX
+22,Lake Meredith,1,TX
+23,Lake Palo Duro,32,TX
+24,Lake Whitney (DWS),14,TX
+25,Los silencios,1,TX
+26,"Lubbock, Tx (Lapstrike Gateway)",8,TX
+27,Lufkin,7,TX
+28,Matilda Bridge,3,TX
+29,Medicine Wall,46,TX
+30,Mineral Wells State Park,35,TX
+31,Nolan River,54,TX
+32,Paisano Peak,1,TX
+33,Palo Duro Canyon State Park,134,TX
+34,Paluxy River Boulders,76,TX
+35,Paradise on the Brazos,100,TX
+36,Pecos River Boat Ramp,37,TX
+37,Pecos River DWS (Deep Water Solo),4,TX
+38,Pedernales Falls State Park,1,TX
+39,Point of Rocks,2,TX
+40,"Prassel Castle Fortress Wall, The",0,TX
+41,Red Bluff,7,TX
+42,Rosemeade Park Boulder,1,TX
+43,San Gabriel Walking Trail,1,TX
+44,Stonehenge Odessa,13,TX
+45,Tonkawa Falls,76,TX
+46,University of North Texas,4,TX
+47,UTSA Boulders,10,TX
+48,Wimberley,6,TX
+49,Wimberley Boulders,2,TX
+50,Wylie Municipal Complex,1,TX
+0,Central Utah,1654,UT
+1,Northeast Utah,442,UT
+2,South Central Utah,1302,UT
+3,Southeast Utah,2975,UT
+4,Southwest Utah,2321,UT
+5,Wasatch Range,5368,UT
+6,West Desert,590,UT
+0,* VT Ice and Mixed,74,VT
+1,1. Northern Vermont,1050,VT
+2,2. Central Vermont,339,VT
+3,3. Southern Vermont,221,VT
+0,4-H Nature Area,2,VA
+1,Alma Crag,7,VA
+2,Barboursville Park,2,VA
+3,Bear Haven,10,VA
+4,Bear Rock Lake Bouldering (Wheeling),15,VA
+5,Bluefield Boulders,0,VA
+6,Bozoo,347,VA
+7,Camp 70 Boulders,60,VA
+8,Cheat Canyon,218,VA
+9,Coopers Rock State Forest,468,VA
+10,Creek Side Boulders,2,VA
+11,Devil's Nose,6,VA
+12,Dolly Sods Region,3,VA
+13,Eagle Rock,1,VA
+14,Fort Hill Area,1,VA
+15,Franklin Gorge,75,VA
+16,Harpers Ferry,0,VA
+17,Kanawha State Park,20,VA
+18,Long Mountain,31,VA
+19,Nelson Rocks,7,VA
+20,"New River Gorge, The",1605,VA
+21,North Bend State Park,15,VA
+22,"Observatory, The",0,VA
+23,Pioneer Rocks,0,VA
+24,Reeds Creek,57,VA
+25,Seneca Rocks,318,VA
+26,Smoke Hole Canyon,61,VA
+27,Spruce Knob,1,VA
+28,Sutton Lake,1,VA
+0,Central Region,655,WA
+1,"Central-East Cascades, Wenatchee, & Leavenworth",1569,WA
+2,Central-West Cascades & Seattle,2073,WA
+3,Northeast Corner & Spokane,636,WA
+4,Northwest Region,930,WA
+5,Okanogan,734,WA
+6,Olympics & Pacific Coast,247,WA
+7,Southeast Cascades & Yakima,323,WA
+8,Southeast Corner,125,WA
+9,Southwest Cascades,646,WA
+0,4-H Nature Area,2,WV
+1,Alma Crag,7,WV
+2,Barboursville Park,2,WV
+3,Bear Haven,10,WV
+4,Bear Rock Lake Bouldering (Wheeling),15,WV
+5,Bluefield Boulders,0,WV
+6,Bozoo,347,WV
+7,Camp 70 Boulders,60,WV
+8,Cheat Canyon,218,WV
+9,Coopers Rock State Forest,468,WV
+10,Creek Side Boulders,2,WV
+11,Devil's Nose,6,WV
+12,Dolly Sods Region,3,WV
+13,Eagle Rock,1,WV
+14,Fort Hill Area,1,WV
+15,Franklin Gorge,75,WV
+16,Harpers Ferry,0,WV
+17,Kanawha State Park,20,WV
+18,Long Mountain,31,WV
+19,Nelson Rocks,7,WV
+20,"New River Gorge, The",1605,WV
+21,North Bend State Park,15,WV
+22,"Observatory, The",0,WV
+23,Pioneer Rocks,0,WV
+24,Reeds Creek,57,WV
+25,Seneca Rocks,318,WV
+26,Smoke Hole Canyon,61,WV
+27,Spruce Knob,1,WV
+28,Sutton Lake,1,WV
+0,420th Bluff,2,WI
+1,Apostle Islands,12,WI
+2,"Big Ben (Green Bay, Brown County, WI)",9,WI
+3,Big Falls County Park,10,WI
+4,Black River Falls,55,WI
+5,Blackhawk Lake Recreation Area,29,WI
+6,Blue Hills,14,WI
+7,Bob's Rock,4,WI
+8,Buildering Sites,75,WI
+9,Cave Point County Park (Door County),12,WI
+10,Central Sandstone,91,WI
+11,Chute Pond County Park,50,WI
+12,Dave's Falls County Park,24,WI
+13,Deep Water Solos,0,WI
+14,Devil's Lake,2464,WI
+15,Donald Park,40,WI
+16,"Dudley Davis Quarry Park: Shorewood Hills, Madison",22,WI
+17,"Fishin' Crag (Castle Rock South), The",39,WI
+18,Gibraltar Rock,1,WI
+19,Governor Dodge State Park,364,WI
+20,Governor Thompson State Park,11,WI
+21,Grandad Bluff,83,WI
+22,Grant County Ice,6,WI
+23,"Great Wall (Green Bay, Brown County, WI), The",2,WI
+24,High Cliff State Park,100,WI
+25,Hillbilly Hollow,57,WI
+26,Horicon,19,WI
+27,"Ice Pit (CLOSED), The",1,WI
+28,Interstate State Park,153,WI
+29,Jake's Rock,16,WI
+30,Jim Falls,20,WI
+31,La Crosse Blufflands,1,WI
+32,Lake Edge Park,1,WI
+33,Lime-Kiln Park,7,WI
+34,Lone Rock,3,WI
+35,"M, The",17,WI
+36,Monico Boulders,9,WI
+37,"Mountain, WI Bouldering Area",3,WI
+38,Mt. Simon,7,WI
+39,Necedah (Petenwell Bluff),91,WI
+40,Niagara Bouldering,1,WI
+41,Pier County Park,2,WI
+42,Quarry Lake Park,0,WI
+43,Quartz Hill Trail,2,WI
+44,Razor Wall,1,WI
+45,Redgranite Quarry,9,WI
+46,Rib Mountain,104,WI
+47,Rock Behind the Rugby Field,2,WI
+48,Sauk Prairie Recreation Area (Forbidden Rocks),4,WI
+49,Stevens Point Buildering,1,WI
+50,Tunnels,0,WI
+51,Weidman Memorial Park,8,WI
+52,Wequiock Falls,1,WI
+53,Westby Bouldering,69,WI
+54,Wildcat Mountain,17,WI
+55,Willow River State Park,47,WI
+56,Wolf Rock,5,WI
+57,Wyalusing Ice,18,WI
+0,Absaroka Range,6,WY
+1,Casper Mountain,47,WY
+2,Cloud Peak Wilderness Area,18,WY
+3,Cody,277,WY
+4,Devils Tower,137,WY
+5,Dome Rock/Pedro Mountains,10,WY
+6,Eastern Big Horns,289,WY
+7,Fremont Canyon,80,WY
+8,Grand Teton National Park,278,WY
+9,Green River,29,WY
+10,Guernsey State Park,130,WY
+11,Jackson Hole,175,WY
+12,Kemmerer Area,16,WY
+13,Lander Area,1133,WY
+14,Laramie Area,34,WY
+15,Laramie Range,347,WY
+16,Lucerne Valley,13,WY
+17,Needle Peak,1,WY
+18,Pinedale Area,111,WY
+19,Pink Towers of the Sierra Madre,0,WY
+20,Rawlins Area,39,WY
+21,Rock Springs,34,WY
+22,Shell Canyon,25,WY
+23,Shirley Mountains,1,WY
+24,Snowy Range,48,WY
+25,Sweetwater Rocks,73,WY
+26,Ten Sleep Canyon,775,WY
+27,Teton Canyon,31,WY
+28,Vedauwoo,1074,WY
+29,White Rock,18,WY
+30,Wind River Range,209,WY
+31,Yellowstone National Park,21,WY
